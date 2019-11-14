@@ -1,4 +1,4 @@
-FROM kyberna/php-webserver:7.2
+FROM kyberna/php-webserver:7.3
 LABEL maintainer="KYBERNA AG <info@kyberna.com>"
 
 RUN export DEBIAN_FRONTEND=noninteractive && \
